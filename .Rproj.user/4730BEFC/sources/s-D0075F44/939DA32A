@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553095578237.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3838891365",
+    "id" : "939DA32A",
+    "lastKnownWriteTime" : 1553096154,
+    "last_content_update" : 1553096154313,
+    "path" : "~/Desktop/PhD Coursework/Year 3 QTR 2/R for Data Science Course 2/distill-launch/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,78",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
